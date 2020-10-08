@@ -1,5 +1,5 @@
 {
-  "name": "sascha1337/laravel-telegram-logging",
+  "name": "rafaellaurindo/laravel-telegram-logging",
   "description": "Send Laravel logs to a Telegram chat via Telegram Bot.",
   "homepage": "https://github.com/sascha1337/laravel-telegram-logging",
   "require": {
